@@ -1,5 +1,5 @@
 # awesome_devops
-A Curated List of Awesome DevOps
+A Curated List of Awesome DevOps Resources
 
 # 工具
 ## 容器化
